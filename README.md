@@ -1,9 +1,8 @@
-# RandomColor-Generator
 # Random Color Generator
 
 This project is a dynamic Random Color Generator built using HTML, CSS, and JavaScript. It generates a new random hexadecimal color code each time the user clicks a button, instantly updating the background color of the webpage and displaying the generated color code in real-time.
 
----
+
 
 ## Features
 
@@ -14,7 +13,7 @@ This project is a dynamic Random Color Generator built using HTML, CSS, and Java
 - Includes smooth CSS transitions for background color changes.
 - Fully responsive layout using Flexbox, with clean and minimal design.
 
----
+
 
 ## Technologies Used
 
@@ -23,7 +22,6 @@ This project is a dynamic Random Color Generator built using HTML, CSS, and Java
 - JavaScript: Logic for generating random color codes and interacting with the DOM.
 - Google Fonts: Integrated custom fonts (Playwrite VN Guides) for improved typography.
 
----
 
 ## How It Works
 

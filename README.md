@@ -30,7 +30,6 @@ This project is a dynamic Random Color Generator built using HTML, CSS, and Java
 1. A random number between 0 and 16777215 (maximum value for 24-bit color) is generated.
 2. This number is converted into a hexadecimal string using `.toString(16)`.
 3. The resulting string is prefixed with `#` to form a valid hex color (e.g., `#4f3b2a`).
-4. The background color of the page is updated using:
-   ```javascript
-   document.body.style.backgroundColor = randomCode;
+4. The background color of the page is finally updated using DOM manipulation.
+   
 

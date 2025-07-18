@@ -29,5 +29,14 @@ This project is a dynamic Random Color Generator built using HTML, CSS, and Java
 2. This number is converted into a hexadecimal string using `.toString(16)`.
 3. The resulting string is prefixed with `#` to form a valid hex color (e.g., `#4f3b2a`).
 4. The background color of the page is finally updated using DOM manipulation.
+ 
+## Deployment
+This project is deployed using GitHub Pages.
+
+Visit the Random Color Generator webpage:
+https://Aviral-Dwivedi06.github.io/RandomColor-Generator/
+
+Developed by Aviral Dwivedi
+GitHub: https://github.com/Aviral-Dwivedi06
    
 
